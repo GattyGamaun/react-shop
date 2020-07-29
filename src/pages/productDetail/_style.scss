@@ -1,0 +1,21 @@
+.product-detail {
+  margin: 0 auto;
+  max-width: 800px;
+
+  article {
+    display: flex;
+  }
+
+  figure,
+  div {
+    margin: 10px 20px;
+  }
+
+  figure {
+    flex-shrink: 0;
+  }
+
+  div {
+    text-align: left;
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "allProducts": [
+    {
+      "id": 10001,
+      "price": 10,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10002,
+      "price": 20,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name2",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10003,
+      "price": 30,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name3",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10004,
+      "price": 40,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name4",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10005,
+      "price": 1,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name5",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10006,
+      "price": 2,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name6",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10007,
+      "price": 3,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name7",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10008,
+      "price": 4,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name8",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 10009,
+      "price": 5,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name9",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    },
+    {
+      "id": 100010,
+      "price": 6,
+      "quantity": 0,
+      "total": 0,
+      "imgUrl": "https://picsum.photos/200",
+      "name": "Name10",
+      "alt": "image",
+      "description": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    }
+  ],
+  "contacts": {
+    "region": "Minsk, 220000",
+    "street": "street, 10",
+    "phones": ["+375 29 111-22-33 (MTS)", "+375 29 555-55-55 (Velcom)"],
+    "hrefs": ["tel:375296763677", "tel:375296949919"],
+    "titles": ["375296763677", "375296949919"],
+    "mail": {
+      "email": "email@gmail.com",
+      "mailto": "mailto:email@gmail.com"
+    },
+    "bank": {
+      "account": "р/с BY22222222222222",
+      "code": "code bank: OLMPBY2X"
+    }
+  },
+  "about": {
+    "us": {
+      "title": "About",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptate aperiam pariatur, temporibus harum odit delectus molestias, perspiciatis minima veritatis neque cupiditate, eveniet dicta ipsam in iste quia ratione consequatur. Voluptatum, quibusdam sit animi molestiae numquam minima dolorum suscipit sunt consequuntur nostrum nihil similique eaque laudantium fugiat iusto quas beatae nulla sint consequatur natus quidem doloribus rerum? "
+    },
+    "advantages": {
+      "title": "Our Advantages",
+      "text": "Numquam officia sint harum culpa laudantium debitis aut praesentium commodi eligendi dolor id inventore ipsa similique, corrupti ex. Officiis labore illum nulla natus saepe iusto nesciunt praesentium autem distinctio suscipit, ullam consequuntur ad a necessitatibus magni est id recusandae? Natus perferendis omnis incidunt ducimus id quam cumque officiis! Voluptates deleniti hic, labore recusandae a natus dolorem in mollitia sit, quae atque ipsum reprehenderit enim harum cum distinctio suscipit impedit dolore maiores deserunt iure! "
+    },
+    "deal": {
+      "title": "What we do",
+      "text": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+    }
+  },
+  "home": {
+    "title": "Home Title",
+    "text": "Quam rem facilis cumque laborum impedit soluta minus quia id earum. Rerum. Repellendus rem eos provident quia ipsa commodi tempora assumenda iusto cumque reiciendis. Magnam facere dolor vel dolore voluptates aut eos rerum. Accusamus sapiente voluptatum blanditiis dignissimos eum officiis architecto veniam?"
+  }
+}
